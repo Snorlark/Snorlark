@@ -1,5 +1,5 @@
 👋 Hi, I’m Lark Sigmuond A. Babap, a.k.a @Snorlark
-👀 I’m from University of the East - Manila, taking the course BSIT-MWA
+👀 I’m from National University - Manila, taking the course BSIT-MWA
 🌱 I’m currently 19 years old, from Pasig City!
 
 <!---
