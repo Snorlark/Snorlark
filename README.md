@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋 I'm Lark Babao a.k.a @Snorlark</h1>
-<h3 align="center">I'm a BSIT-MWA <em>(specialization in Mobile and Web Application)</em> student from National University - Manila</h3>
-<img align="right" alt="Coding" width="250" src="https://scontent.cdninstagram.com/v/t51.29350-15/378050672_669474794867356_3006566771973031566_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi45NjB4OTYwLnNkci5mMjkzNTAifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_ohc=aO5qKTf9w7wQ7kNvgEkWI0C&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzE5MjIxNDczMDM2Njc4MjgyNw%3D%3D.2-ccb7-5&oh=00_AYAPlva6F6VbbAtREVULyQRZHcJbmzXlK35p898d3eXL7g&oe=66516716&_nc_sid=10d13b">
+<h1 align="start">Hi 👋 I'm Lark Babao</h1>
+<h3 align="start">I'm a BSIT-MWA <em>(specialization in Mobile and Web Application)</em> student from National University - Manila</h3>
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/326e4dc8a4cb9e4c3a801338c637219b/4d30c45e1fa4489a-33/s1280x1920/034ca0251dfb93c40b8b533321d552cb694e47ff.gifv">
 
 - 🔭 I’m currently working on **creating Websites and Applications**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 Current Tech Stack: **React JS, Typescript, NodeJS, Dart**
 
 - 👨‍💻 All of my projects are available at [https://shorturl.at/sM2Up](https://shorturl.at/sM2Up)
 
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://shorturl.at/OxZ0p](https://shorturl.at/OxZ0p)
 
-- ⚡ Fun fact **I make pixel arts!**
+- ⚡ Hobbies: **I make pixel arts and poetry!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
