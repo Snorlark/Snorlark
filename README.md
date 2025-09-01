@@ -8,11 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://shorturl.at/sM2Up](https://shorturl.at/sM2Up)
 
-- 📫 How to reach me **larksigmuondbabao@gmail.com**
+- 📫 How to reach me **lark.babao0123.com**
 
 - 📄 Know about my experiences [https://shorturl.at/OxZ0p](https://shorturl.at/OxZ0p)
-
-- ⚡ Hobbies: **I make pixel arts and poetry!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
