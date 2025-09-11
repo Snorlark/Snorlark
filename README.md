@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shorturl.at/sM2Up](https://shorturl.at/sM2Up)
 
-- 📫 How to reach me **lark.babao0123.com**
+- 📫 How to reach me **larksigmuondbabao@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/OxZ0p](https://shorturl.at/OxZ0p)
 
