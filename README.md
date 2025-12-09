@@ -104,6 +104,18 @@
   <img src ="https://githubreadme-a6hp.vercel.app/api?username=snorlark&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" height="124" alt="stats graph" />
   <img src="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=snorlark&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true" height="124" alt="languages graph" />
   <img src="https://streak-stats.vercel.app/?user=snorlark&theme=gruvbox&hide_border=true" height="124" alt="snorlark" />
+</div>
+
+###
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+
+###
+
+  <img src="https://github-trophies.vercel.app/?username=snorlark&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&theme=gruvbox&no-frame=true&row=1&column=8" alt="trophy" />
+  
+###
+
 
 <picture>
   <source
@@ -117,19 +129,6 @@
   <img alt="Breakout Game" src="images/breakout-dark.svg" />
 </picture>
 
-
-</div>
-
-
-###
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-
-###
-
-  <img src="https://github-trophies.vercel.app/?username=snorlark&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&theme=gruvbox&no-frame=true&row=1&column=8" alt="trophy" />
-  
-###
 
 
 
