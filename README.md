@@ -18,7 +18,6 @@
 
 ###
 
-
 ###
 
 <h1 align="center">Wassup 👋, I'm Lark Babao a.k.a @Snorlark</h1>
@@ -43,13 +42,12 @@
   Passionate BSIT student and former Chief Technical Officer of Google Developer Group - NU Manila. Currently a Software Engineering Intern @ MEC Networks Corporation<br><br>
 </p>
 
-  - 🔭 Currently working on **creating Full-Stack Internal Systems for MEC Networks Corporation**
-  - 🌱 Learning <strong>Laravel</strong> and advancing my skills in <strong>AI/ML and DevOPS</strong><br>
-  - 🌱 Current Tech Stack: **React JS, Typescript, MongoDB, NodeJS, Flutter**
-  - 👨‍💻 All of my projects are available at my **[Portfolio](https://larkbabao-portfolio.vercel.app/)**
+- 🔭 Currently working on **creating Full-Stack Internal Systems for MEC Networks Corporation**
+- 🌱 Learning <strong>Laravel</strong> and advancing my skills in <strong>AI/ML and DevOPS</strong><br>
+- 🌱 Current Tech Stack: **React JS, Typescript, MongoDB, NodeJS, Flutter**
+- 👨‍💻 All of my projects are available at my **[Portfolio](https://larkbabao-portfolio.vercel.app/)**
 - 📫 Reach me at **larksigmuondbabao@gmail.com**
 - 📄 Know about my experiences at my **[Resume](https://babao-lark-resume.tiiny.site/)**
-
 
 ###
 
@@ -101,9 +99,9 @@
 ###
 
 <div style="text-align: center;">
-  <img src ="https://githubreadme-a6hp.vercel.app/api?username=snorlark&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" height="124" alt="stats graph" />
-  <img src="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=snorlark&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true" height="124" alt="languages graph" />
-  <img src="https://streak-stats.vercel.app/?user=snorlark&theme=gruvbox&hide_border=true" height="124" alt="snorlark" />
+  <img src ="https://githubreadme-a6hp.vercel.app/api?username=snorlark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="124" alt="stats graph" />
+  <img src="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=snorlark&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true" height="124" alt="languages graph" />
+  <img src="https://streak-stats.vercel.app/?user=snorlark&theme=tokyonight&hide_border=true" height="124" alt="snorlark" />
 </div>
 
 ###
@@ -112,10 +110,9 @@
 
 ###
 
-  <img src="https://github-trophies.vercel.app/?username=snorlark&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&theme=gruvbox&no-frame=true&row=1&column=8" alt="trophy" />
+  <img src="https://github-trophies.vercel.app/?username=snorlark&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&theme=tokyonight&no-frame=true&row=1&column=8" alt="trophy" />
   
 ###
-
 
 <picture>
   <source
@@ -128,8 +125,3 @@
   />
   <img alt="Breakout Game" src="images/breakout-dark.svg" />
 </picture>
-
-
-
-
-
