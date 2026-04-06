@@ -98,7 +98,7 @@
 
 ###
 
-<img src="./profile/stats.svg" height="124" />
+<img src="./profile/stats.svg" height="150" />
 
 ###
 
