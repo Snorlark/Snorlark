@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="center">Full-Stack Software Engineer | National University Student</h3>
+<h3 align="center">Full-Stack Software Engineer | MEC Networks Corporation </h3>
 
 ###
 
@@ -39,7 +39,7 @@
 ###
 
 <p align="left">
-  Passionate BSIT student and former Chief Technical Officer of Google Developer Group - NU Manila. Currently a Software Engineering Intern @ MEC Networks Corporation<br><br>
+  Passionate BSIT student and former Chief Technical Officer of Google Developer Group - NU Manila. Currently an Assistant Software Engineer @ MEC Networks Corporation<br><br>
 </p>
 
 - 🔭 Currently working on **creating Full-Stack Internal Systems for MEC Networks Corporation**
