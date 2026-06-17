@@ -39,7 +39,7 @@
 ###
 
 <p align="left">
-  Passionate BSIT student and former Chief Technical Officer of Google Developer Group - NU Manila. Currently an Assistant Software Engineer @ MEC Networks Corporation<br><br>
+  Passionate BSIT student and former Chief Technical Officer of Google Developer Group - NU Manila. Currently an Assistant Software Developer @ MEC Networks Corporation<br><br>
 </p>
 
 - 🔭 Currently working on **creating Full-Stack Internal Systems for MEC Networks Corporation**
