@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="center">Full-Stack Software Engineer | MEC Networks Corporation </h3>
+<h3 align="center">Full-Stack Software Developer | MEC Networks Corporation </h3>
 
 ###
 
