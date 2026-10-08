@@ -1,35 +1,64 @@
 name: Update README cards
 
 on:
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write 
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
+    env:
+      # The portfolio's palette: paper and ink, with its blue for icons and the rank ring.
+      LIGHT: bg_color=fafaf7&title_color=121214&text_color=56554f&icon_color=2f6bff&ring_color=2f6bff&border_color=e7e5e0&border_radius=20
+      DARK: bg_color=121214&title_color=f3f2ee&text_color=b4b2ab&icon_color=5b8cff&ring_color=5b8cff&border_color=2a2a2e&border_radius=20
+      STATS: show_icons=true&custom_title=GitHub%20stats
+      LANGS: layout=compact&langs_count=8&card_width=360&custom_title=Most%20used%20languages
+
     steps:
       - uses: actions/checkout@v4
 
-      # create folder working-directory: 
-      - name: Ensure profile folder exists
-        run: mkdir -p profile
-
-      # generate the svg stats
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Stats (light)
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
-          path: profile/stats.svg
+          options: username=${{ github.repository_owner }}&${{ env.STATS }}&${{ env.LIGHT }}
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # commit
-      - name: Commit file
+      - name: Stats (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&${{ env.STATS }}&${{ env.DARK }}
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&${{ env.LANGS }}&${{ env.LIGHT }}
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&${{ env.LANGS }}&${{ env.DARK }}
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/stats.svg
-          git commit -m "Update stats" || echo "No changes"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: update README cards" || exit 0
+          git pull --rebase
           git push
