@@ -1,9 +1,5 @@
 <a href="https://larkbabao.vercel.app/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
-    <img src="assets/header-light.svg" width="100%" alt="Lark Babao, Full-Stack Software Engineer and UI/UX Designer: where robust engineering meets refined UX" />
-  </picture>
+  <img src="assets/hero.svg" width="100%" alt="Lark Babao, Full-Stack Software Engineer and UI/UX Designer: where robust engineering meets refined UX. Designs it. Builds it. Ships it." />
 </a>
 
 <h1 align="center">Hi, I'm Lark Babao</h1>
@@ -22,14 +18,12 @@
 
 <br />
 
-### Now
-
-- **Co-Founder & Lead Developer** at Quadsync Technologies: web, mobile and IoT for government and business clients
-- **Assistant Web Developer** at MEC Networks Corporation: UI/UX lead, frontend and full-stack
-- **BS Information Technology**, Summa Cum Laude, National University Manila
-- Former **CTO** of Google Developer Groups on Campus, NU Manila
-
-<br />
+<a href="https://larkbabao.vercel.app/about">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg" />
+    <img src="assets/experience-light.svg" width="100%" alt="Experience: Co-Founder and Lead Developer at Quadsync Technologies; Assistant Web Developer at MEC Networks Corporation; Chief Technology Officer at Google Developer Groups on Campus, NU Manila; BS Information Technology, Summa Cum Laude, National University" />
+  </picture>
+</a>
 
 ### Selected work
 
@@ -68,11 +62,7 @@
 
 ### Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
-  <img src="assets/stack-light.svg" width="100%" alt="Tech stack: React, Next.js, TypeScript, Tailwind CSS, three.js, Vite, Flutter, Dart, Firebase, Laravel, PHP, Node.js, Express, MongoDB, MySQL, Python, Figma, Git, Docker, Postman" />
-</picture>
+<img src="assets/dock.svg" width="100%" alt="Tech stack: React, Next.js, TypeScript, Tailwind CSS, three.js, Vite, Flutter, Dart, Firebase, Laravel, PHP, Node.js, Express, MongoDB, MySQL, Python, Figma, Git, Docker, Postman" />
 
 ### Activity
 
@@ -97,7 +87,15 @@
 
 <br />
 
+<a href="https://larkbabao.vercel.app/contact">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/messages-dark.svg" />
+    <img src="assets/messages-light.svg" width="100%" alt="A message thread: Lark, build me a dashboard my team will actually open. Dashboards are my favourite. Seriously." />
+  </picture>
+</a>
+
 <p align="center">
-  <img src="snorlax.gif" height="56" alt="Snorlax, sleeping" /><br />
-  <sub>zzz… thanks for stopping by. <a href="https://larkbabao.vercel.app/">larkbabao.vercel.app</a></sub>
+  <b><a href="https://larkbabao.vercel.app/contact">Lark, build me…</a></b> &nbsp;finish the sentence and it lands in my inbox.<br /><br />
+  <img src="snorlax.gif" height="44" alt="Snorlax, sleeping" /><br />
+  <sub>zzz… thanks for stopping by.</sub>
 </p>
