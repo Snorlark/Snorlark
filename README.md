@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://larkbabao.vercel.app/"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lark-sigmuond-babao-9a8a012b2/"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://larkbabao.vercel.app/Lark-Sigmuond-Babao-Resume.pdf"><b>Résumé</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:larksigmuondbabao@gmail.com"><b>Email</b></a>
 </p>
 
