@@ -30,6 +30,10 @@
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://plopui.com"><img src="assets/work/plop-ui.webp" width="100%" alt="PlopUI open-source hand-drawn React and TypeScript component library" /></a>
+      <br /><b>PlopUI</b><br /><sub>Open-source hand-drawn React UI kit</sub>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://larkbabao.vercel.app/work/quadshield"><img src="assets/work/quadshield.webp" width="100%" alt="QuadShield emergency reporting and police dispatch app built with Flutter, React and Laravel" /></a>
       <br /><b>QuadShield</b><br /><sub>Emergency reporting & police dispatch</sub>
     </td>
@@ -37,12 +41,12 @@
       <a href="https://larkbabao.vercel.app/work/dalago"><img src="assets/work/dalago.webp" width="100%" alt="DalaGO multi-role food delivery app built with Flutter" /></a>
       <br /><b>DalaGO</b><br /><sub>Multi-role food delivery platform</sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://larkbabao.vercel.app/work/maizewatch"><img src="assets/work/maize-watch.webp" width="100%" alt="Maize Watch IoT corn field monitoring with Flutter, ESP32 and MongoDB" /></a>
       <br /><b>Maize Watch</b><br /><sub>IoT corn monitoring & analytics</sub>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <a href="https://larkbabao.vercel.app/work/careero"><img src="assets/work/careero.webp" width="100%" alt="Careero AI skill verification and career matching platform built with Next.js" /></a>
       <br /><b>Careero</b><br /><sub>AI skill verification & career matching</sub>
@@ -51,6 +55,8 @@
       <a href="https://larkbabao.vercel.app/work/justasec"><img src="assets/work/just-a-sec.webp" width="100%" alt="Just a Sec offline-first one-second video diary app built with Flutter" /></a>
       <br /><b>Just a Sec</b><br /><sub>Offline-first one-second video diary</sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://larkbabao.vercel.app/work/fieldservice"><img src="assets/work/field-service.webp" width="100%" alt="Field Service operations management system built with Laravel Reverb" /></a>
       <br /><b>Field Service</b><br /><sub>Field service & partner operations</sub>
