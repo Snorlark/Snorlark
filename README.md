@@ -1,5 +1,5 @@
 <a href="https://larkbabao.vercel.app/">
-  <img src="assets/hero.svg" width="100%" alt="Lark Babao, Full-Stack Software Engineer and UI/UX Designer: where robust engineering meets refined UX. Designs it. Builds it. Ships it." />
+  <img src="assets/hero.svg" width="100%" alt="Lark Babao, Full-Stack Software Engineer and Product Designer: where robust engineering meets refined UX. Designs it. Builds it. Ships it." />
 </a>
 
 <h1 align="center">Hi, I'm Lark Babao</h1>
