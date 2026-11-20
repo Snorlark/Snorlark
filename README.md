@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Lark Babao</h1>
 
 <p align="center">
-  Full-stack software engineer and UI/UX designer from the Philippines.<br />
+  Full-stack software engineer and Product Designer from the Philippines.<br />
   I design the interface, then build the APIs, data and realtime systems behind it.
 </p>
 
